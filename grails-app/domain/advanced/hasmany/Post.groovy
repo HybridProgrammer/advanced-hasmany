@@ -4,4 +4,6 @@ class Post {
 
     static constraints = {
     }
+
+    String title
 }
